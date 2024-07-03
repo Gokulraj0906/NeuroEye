@@ -1,0 +1,4 @@
+numpy 
+PIL 
+python-opencv
+scikit-learn
